@@ -210,3 +210,6 @@ This tool is for informational and educational purposes only. It is not financia
 ## License
 
 MIT License.
+## Screenshot
+
+![Scanner Screenshot](screen.jpg)
